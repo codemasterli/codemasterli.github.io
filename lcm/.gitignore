@@ -9,6 +9,7 @@
 /coverage
 
 # production
+# gig
 
 # misc
 .DS_Store
