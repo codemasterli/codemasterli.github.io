@@ -1,2 +1,2 @@
 # codemasterli.github.io
-기술 블로
+기술 블로그
